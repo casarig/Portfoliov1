@@ -1,0 +1,15 @@
+.footer {
+    padding: 15px;
+    font-size: 18px;
+  }
+
+.sns-links {
+    padding-left: 10%;
+    display: grid;
+    width: 50%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+.footer-sns{
+    display: flex;
+}
